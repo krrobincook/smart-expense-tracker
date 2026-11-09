@@ -16,7 +16,7 @@
     <description>REST API foundation for a smart expense tracker</description>
     <properties>
         <java.version>17</java.version>
-        <rest-assured.version>5.5.5</rest-assured.version>
+        <rest-assured.version>6.0.1</rest-assured.version>
     </properties>
     <dependencies>
         <dependency>
